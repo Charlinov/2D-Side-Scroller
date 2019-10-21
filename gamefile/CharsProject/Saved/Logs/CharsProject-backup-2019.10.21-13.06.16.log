@@ -1,0 +1,1128 @@
+﻿Log file open, 10/21/19 13:43:08
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CharsProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.089272
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin DataPrepEditor
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin DatasmithC4DImporter
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithGLTFImporter
+LogPluginManager: Mounting plugin DatasmithIFCImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1703) (), CPU:       Intel(R) Xeon(R) CPU E5-1620 v2 @ 3.70GHz, GPU: NVIDIA GeForce GTX 760
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.21-12.43.08:728][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.21-12.43.08:728][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Saved/Config/Windows/Engine.ini]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:1]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:1]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:2]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2019.10.21-12.43.08:729][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Saved/Config/Windows/Engine.ini]
+[2019.10.21-12.43.08:730][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Saved/Config/Windows/Engine.ini]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Saved/Config/Windows/Engine.ini]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.21-12.43.08:730][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Saved/Config/Windows/Engine.ini]
+[2019.10.21-12.43.08:730][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Saved/Config/Windows/Engine.ini]
+[2019.10.21-12.43.08:735][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Saved/Config/Windows/Scalability.ini]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Saved/Config/Windows/Scalability.ini]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Saved/Config/Windows/Scalability.ini]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Saved/Config/Windows/Scalability.ini]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.21-12.43.08:735][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Saved/Config/Windows/Scalability.ini]
+[2019.10.21-12.43.08:736][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.21-12.43.08:736][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.21-12.43.08:736][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.21-12.43.08:736][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.21-12.43.08:736][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.21-12.43.08:736][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.21-12.43.08:736][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.21-12.43.08:736][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.21-12.43.08:736][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Saved/Config/Windows/Scalability.ini]
+[2019.10.21-12.43.08:736][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.21-12.43.08:736][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.21-12.43.08:736][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.21-12.43.08:736][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.21-12.43.08:736][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.21-12.43.08:736][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.21-12.43.08:736][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.21-12.43.08:736][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.21-12.43.08:736][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.21-12.43.08:736][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.21-12.43.08:736][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.21-12.43.08:736][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.21-12.43.08:736][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.21-12.43.08:736][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Saved/Config/Windows/Scalability.ini]
+[2019.10.21-12.43.08:736][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.21-12.43.08:736][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.21-12.43.08:736][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.21-12.43.08:736][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.21-12.43.08:739][  0]LogHAL: Display: Platform has ~ 16 GB [17051660288 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.21-12.43.08:739][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.21-12.43.08:739][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Saved/Config/Windows/Scalability.ini]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Saved/Config/Windows/Scalability.ini]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Saved/Config/Windows/Scalability.ini]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Saved/Config/Windows/Scalability.ini]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Saved/Config/Windows/Scalability.ini]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.21-12.43.08:739][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.21-12.43.08:740][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.21-12.43.08:740][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.21-12.43.08:740][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.21-12.43.08:740][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.21-12.43.08:740][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Saved/Config/Windows/Scalability.ini]
+[2019.10.21-12.43.08:740][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.21-12.43.08:740][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.21-12.43.08:740][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.21-12.43.08:740][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.21-12.43.08:740][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.21-12.43.08:740][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.21-12.43.08:740][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.21-12.43.08:740][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.21-12.43.08:740][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.21-12.43.08:740][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.21-12.43.08:740][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.21-12.43.08:740][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.21-12.43.08:740][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.21-12.43.08:740][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Saved/Config/Windows/Scalability.ini]
+[2019.10.21-12.43.08:740][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.21-12.43.08:740][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.21-12.43.08:740][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.21-12.43.08:740][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.21-12.43.08:740][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.21-12.43.08:740][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Saved/Config/Windows/Engine.ini]
+[2019.10.21-12.43.08:740][  0]LogInit: Computer: DESKTOP-JIG17NR
+[2019.10.21-12.43.08:740][  0]LogInit: User: Games
+[2019.10.21-12.43.08:740][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.10.21-12.43.08:740][  0]LogInit: High frequency timer resolution =3.613287 MHz
+[2019.10.21-12.43.08:740][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.10.21-12.43.08:740][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.21-12.43.08:740][  0]LogMemory: Process Physical Memory: 101.33 MB used, 101.33 MB peak
+[2019.10.21-12.43.08:740][  0]LogMemory: Process Virtual Memory: 98.68 MB used, 98.68 MB peak
+[2019.10.21-12.43.08:740][  0]LogMemory: Physical Memory: 3701.97 MB used,  12559.76 MB free, 16261.73 MB total
+[2019.10.21-12.43.08:740][  0]LogMemory: Virtual Memory: 548.32 MB used,  134217176.00 MB free, 134217728.00 MB total
+[2019.10.21-12.43.08:743][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.10.21-12.43.08:767][  0]LogInit: Using OS detected language (en-US).
+[2019.10.21-12.43.08:767][  0]LogInit: Using OS detected locale (en-GB).
+[2019.10.21-12.43.08:768][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.10.21-12.43.08:958][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.21-12.43.09:014][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.21-12.43.09:014][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.21-12.43.09:189][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.21-12.43.09:189][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.21-12.43.09:263][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 760' (Feature Level 11_0)
+[2019.10.21-12.43.09:263][  0]LogD3D11RHI:       2007/0/8130 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.10.21-12.43.09:264][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.21-12.43.09:264][  0]LogD3D11RHI:       0/0/8130 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.21-12.43.09:264][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.21-12.43.09:269][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.21-12.43.09:269][  0]LogD3D11RHI:     GPU DeviceId: 0x1187 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.21-12.43.09:269][  0]LogWindows: EnumDisplayDevices:
+[2019.10.21-12.43.09:269][  0]LogWindows:    0. 'NVIDIA GeForce GTX 760' (P:1 D:1)
+[2019.10.21-12.43.09:269][  0]LogWindows:    1. 'NVIDIA GeForce GTX 760' (P:0 D:1)
+[2019.10.21-12.43.09:269][  0]LogWindows:    2. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2019.10.21-12.43.09:270][  0]LogWindows:    3. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2019.10.21-12.43.09:270][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.10.21-12.43.09:270][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 760
+[2019.10.21-12.43.09:270][  0]LogD3D11RHI:   Driver Version: 436.30 (internal:26.21.14.3630, unified:436.30)
+[2019.10.21-12.43.09:270][  0]LogD3D11RHI:      Driver Date: 9-5-2019
+[2019.10.21-12.43.09:270][  0]LogRHI: Texture pool is 1404 MB (70% of 2007 MB)
+[2019.10.21-12.43.09:321][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.21-12.43.09:339][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.10.21-12.43.09:870][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.21-12.43.09:880][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.21-12.43.09:889][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.21-12.43.09:899][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.21-12.43.09:908][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.21-12.43.09:918][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.21-12.43.09:927][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.21-12.43.09:937][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.21-12.43.09:941][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.21-12.43.09:975][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.21-12.43.09:975][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.21-12.43.09:975][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.21-12.43.09:975][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.21-12.43.09:975][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.21-12.43.09:975][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.21-12.43.09:975][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.21-12.43.09:975][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.21-12.43.09:976][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.21-12.43.09:976][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.21-12.43.09:976][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.21-12.43.09:976][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.21-12.43.09:976][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.21-12.43.09:976][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.21-12.43.09:976][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.21-12.43.09:976][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.21-12.43.09:976][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.21-12.43.09:976][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.21-12.43.09:977][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.21-12.43.10:003][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.21-12.43.10:003][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.21-12.43.10:017][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.21-12.43.10:017][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.21-12.43.10:025][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.21-12.43.10:032][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.21-12.43.10:039][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.21-12.43.10:047][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.21-12.43.10:072][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.21-12.43.10:073][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.21-12.43.10:073][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.21-12.43.10:083][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.21-12.43.10:154][  0]LogShaderCompilers: Guid format shader working directory is -39 characters bigger than the processId version (../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Intermediate/Shaders/WorkingDirectory/8540/).
+[2019.10.21-12.43.10:154][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Games/AppData/Local/Temp/UnrealShaderWorkingDir/315AE7334D42FF500A707B9FA99D960D/'.
+[2019.10.21-12.43.10:158][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.21-12.43.10:158][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.21-12.43.10:158][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.21-12.43.10:930][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.21-12.43.11:006][  0]LogDerivedDataCache: Loaded boot cache 0.08s 74MB C:/Users/Games/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.21-12.43.11:006][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Games/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.10.21-12.43.11:006][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.21-12.43.11:006][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.21-12.43.11:006][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.21-12.43.11:007][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.21-12.43.11:017][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.21-12.43.11:019][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2019.10.21-12.43.11:021][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Games/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.21-12.43.11:021][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.21-12.43.11:021][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.21-12.43.11:061][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.21-12.43.11:064][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.21-12.43.11:065][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.21-12.43.11:131][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2019.10.21-12.43.11:502][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.21-12.43.11:667][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.21-12.43.11:667][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.21-12.43.11:667][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.21-12.43.11:667][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.21-12.43.11:667][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.21-12.43.11:677][  0]LogNetVersion: CharsProject 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1030064032)
+[2019.10.21-12.43.12:160][  0]LogPackageLocalizationCache: Processed 18 localized package path(s) for 1 prioritized culture(s) in 0.085042 seconds
+[2019.10.21-12.43.12:168][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.10.21-12.43.12:168][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.10.21-12.43.12:168][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.21-12.43.13:095][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.21-12.43.13:098][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.21-12.43.13:152][  0]SourceControl: Source control is disabled
+[2019.10.21-12.43.13:152][  0]SourceControl: Source control is disabled
+[2019.10.21-12.43.13:153][  0]SourceControl: Source control is disabled
+[2019.10.21-12.43.13:154][  0]SourceControl: Source control is disabled
+[2019.10.21-12.43.13:331][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.21-12.43.13:388][  0]LogOcInput: OculusInput pre-init called
+[2019.10.21-12.43.13:395][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.10.21-12.43.13:395][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.10.21-12.43.16:945][  0]LogEngine: Initializing Engine...
+[2019.10.21-12.43.16:946][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.21-12.43.16:947][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.21-12.43.17:255][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.21-12.43.17:276][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.21-12.43.17:287][  0]LogInit: XAudio2 using 'EV2316W (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.21-12.43.17:315][  0]LogInit: FAudioDevice initialized.
+[2019.10.21-12.43.17:315][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.21-12.43.17:485][  0]LogDerivedDataCache: Saved boot cache 0.17s 74MB C:/Users/Games/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.21-12.43.17:512][  0]LogInit: Texture streaming: Enabled
+[2019.10.21-12.43.17:546][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.21-12.43.17:625][  0]LogInit: Transaction tracking system initialized
+[2019.10.21-12.43.17:664][  0]BlueprintLog: New page: Editor Load
+[2019.10.21-12.43.17:750][  0]LocalizationService: Localization service is disabled
+[2019.10.21-12.43.18:000][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/' took 0.00s
+[2019.10.21-12.43.18:000][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.21-12.43.18:000][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.21-12.43.18:084][  0]LogLinker: Warning: Failed to load '/Engine/BasicShapes/Cube': Can't find file.
+[2019.10.21-12.43.18:084][  0]LogLinker: Warning: Failed to load '/Engine/BasicShapes/Cube': Can't find file.
+[2019.10.21-12.43.18:084][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Cube.Cube'
+[2019.10.21-12.43.18:084][  0]LogLinker: Warning: Failed to load '/Engine/BasicShapes/Sphere': Can't find file.
+[2019.10.21-12.43.18:084][  0]LogLinker: Warning: Failed to load '/Engine/BasicShapes/Sphere': Can't find file.
+[2019.10.21-12.43.18:084][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Sphere.Sphere'
+[2019.10.21-12.43.19:755][  0]SourceControl: Source control is disabled
+[2019.10.21-12.43.19:755][  0]LightingResults: New page: Lighting Build
+[2019.10.21-12.43.19:758][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.21-12.43.19:758][  0]MapCheck: New page: Map Check
+[2019.10.21-12.43.19:758][  0]LightingResults: New page: Lighting Build
+[2019.10.21-12.43.19:790][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2019.10.21-12.43.20:015][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.10.21-12.43.20:024][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.21-12.43.20:050][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2019.10.21-12.43.20:050][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.21-12.43.20:051][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.184ms to complete.
+[2019.10.21-12.43.20:051][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.296
+[2019.10.21-12.43.20:188][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.21-12.43.20:196][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.21-12.43.20:204][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.21-12.43.20:212][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.21-12.43.20:219][  0]LogCollectionManager: Loaded 0 collections in 0.002047 seconds
+[2019.10.21-12.43.20:225][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Saved/Collections/' took 0.00s
+[2019.10.21-12.43.20:225][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/Developers/Games/Collections/' took 0.00s
+[2019.10.21-12.43.20:225][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/Collections/' took 0.00s
+[2019.10.21-12.43.20:226][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.10.21-12.43.20:235][  0]LogContentBrowser: Native class hierarchy populated in 0.0098 seconds. Added 3045 classes and 765 folders.
+[2019.10.21-12.43.20:243][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.21-12.43.20:293][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.21-12.43.20:297][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2019.10.21-12.43.20:312][  0]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.21-12.43.20:316][  0]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.21-12.43.20:329][  0]LogSlate: Took 0.000388 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.21-12.43.20:428][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.10.21-12.43.20:652][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.10.21-12.43.20:652][  0]LogLoad: (Engine Initialization) Total time: 13.47 seconds
+[2019.10.21-12.43.20:652][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.21-12.43.20:664][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.21-12.43.20:710][  0]LogAssetRegistry: Asset discovery search completed in 9.5804 seconds
+[2019.10.21-12.43.20:714][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2019.10.21-12.43.20:714][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000058 seconds (updated 0 objects)
+[2019.10.21-12.43.20:715][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.21-12.43.20:740][  0]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.21-12.43.21:683][ 87]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.21-12.43.22:408][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-12.43.22:466][176]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.21-12.43.22:486][176]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.10.21-12.43.22:486][176]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.21-12.43.22:487][176]PIE: New page: PIE session: 2DSideScrollerExampleMap (21 Oct 2019 14:43:22)
+[2019.10.21-12.43.22:488][176]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.10.21-12.43.22:489][176]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.10.21-12.43.22:492][176]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003131s)
+[2019.10.21-12.43.22:493][176]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.10.21-12.43.22:493][176]LogPlayLevel: PIE: World Init took: (0.001043s)
+[2019.10.21-12.43.22:493][176]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004420s)
+[2019.10.21-12.43.22:522][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2019.10.21-12.43.22:527][176]LogInit: XAudio2 using 'EV2316W (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.21-12.43.22:534][176]LogInit: FAudioDevice initialized.
+[2019.10.21-12.43.22:542][176]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.10.21-12.43.22:544][176]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.10.21-13.43.22
+[2019.10.21-12.43.22:545][176]LogWorld: Bringing up level for play took: 0.001340
+[2019.10.21-12.43.22:545][176]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2019.10.21-12.43.22:552][176]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.10.21-12.43.22:554][176]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.635
+[2019.10.21-12.43.22:554][176]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.10.21-12.43.24:910][457]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.10.21-12.43.24:911][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.21-12.43.24:911][457]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.10.21-12.43.24:911][457]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.21-12.43.24:916][457]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.21-12.43.24:916][457]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.10.21-12.43.24:943][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.21-12.43.24:946][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2019.10.21-12.43.25:013][464]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.10.21-12.43.26:746][671]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-12.44.02:281][933]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.21-12.44.02:303][933]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.10.21-12.44.02:304][933]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.21-12.44.02:304][933]PIE: New page: PIE session: 2DSideScrollerExampleMap (21 Oct 2019 14:44:02)
+[2019.10.21-12.44.02:304][933]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.10.21-12.44.02:307][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003392s)
+[2019.10.21-12.44.02:308][933]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.10.21-12.44.02:308][933]LogPlayLevel: PIE: World Init took: (0.001116s)
+[2019.10.21-12.44.02:309][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004655s)
+[2019.10.21-12.44.02:331][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.10.21-12.44.02:335][933]LogInit: XAudio2 using 'EV2316W (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.21-12.44.02:343][933]LogInit: FAudioDevice initialized.
+[2019.10.21-12.44.02:349][933]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.10.21-12.44.02:350][933]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.10.21-13.44.02
+[2019.10.21-12.44.02:350][933]LogWorld: Bringing up level for play took: 0.001079
+[2019.10.21-12.44.02:350][933]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2019.10.21-12.44.02:353][933]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.836
+[2019.10.21-12.44.02:353][933]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.10.21-12.44.05:267][282]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.10.21-12.44.05:268][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.21-12.44.05:268][282]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.10.21-12.44.05:268][282]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.21-12.44.05:277][282]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.21-12.44.05:277][282]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.10.21-12.44.05:304][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.21-12.44.05:307][282]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2019.10.21-12.44.05:373][289]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.10.21-12.44.15:816][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-12.44.15:883][549]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.21-12.44.15:905][549]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.10.21-12.44.15:905][549]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.21-12.44.15:905][549]PIE: New page: PIE session: 2DSideScrollerExampleMap (21 Oct 2019 14:44:15)
+[2019.10.21-12.44.15:905][549]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.10.21-12.44.15:908][549]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003077s)
+[2019.10.21-12.44.15:910][549]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.10.21-12.44.15:910][549]LogPlayLevel: PIE: World Init took: (0.001538s)
+[2019.10.21-12.44.15:910][549]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004767s)
+[2019.10.21-12.44.15:935][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2019.10.21-12.44.15:939][549]LogInit: XAudio2 using 'EV2316W (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.21-12.44.15:947][549]LogInit: FAudioDevice initialized.
+[2019.10.21-12.44.15:957][549]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.10.21-12.44.15:959][549]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.10.21-13.44.15
+[2019.10.21-12.44.15:959][549]LogWorld: Bringing up level for play took: 0.001201
+[2019.10.21-12.44.15:959][549]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2019.10.21-12.44.15:962][549]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.773
+[2019.10.21-12.44.15:962][549]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.10.21-12.44.33:659][640]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-12.44.56:983][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-12.44.57:141][216]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Projectiles/PlayerBullet.PlayerBullet
+[2019.10.21-12.44.57:418][216]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2019.10.21-12.44.58:734][216]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.21-12.44.59:777][288]LogSlate: Took 0.000275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.21-12.45.13:695][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-12.45.30:244][953]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-12.45.35:517][405]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.10.21-12.45.35:518][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.21-12.45.35:518][405]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.10.21-12.45.35:519][405]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.21-12.45.35:531][405]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.21-12.45.35:532][405]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.10.21-12.45.35:572][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.21-12.45.35:578][405]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2019.10.21-12.45.35:627][406]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.10.21-12.45.46:524][640]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-12.46.03:670][551]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-12.46.08:105][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.21-12.46.10:147][290]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.21-12.46.20:389][454]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-12.48.30:285][757]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.23/FeaturePacks/StarterContent.upack)
+[2019.10.21-12.48.30:330][757]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2019.10.21-12.48.30:368][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2019.10.21-12.48.30:426][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2019.10.21-12.48.30:458][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2019.10.21-12.48.30:529][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2019.10.21-12.48.30:565][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2019.10.21-12.48.30:599][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2019.10.21-12.48.30:683][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2019.10.21-12.48.30:733][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2019.10.21-12.48.30:768][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2019.10.21-12.48.30:793][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2019.10.21-12.48.30:814][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2019.10.21-12.48.30:832][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Audio/Collapse01.uasset"
+[2019.10.21-12.48.30:878][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Audio/Collapse02.uasset"
+[2019.10.21-12.48.30:890][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2019.10.21-12.48.30:904][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Audio/Explosion01.uasset"
+[2019.10.21-12.48.30:917][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Audio/Explosion02.uasset"
+[2019.10.21-12.48.30:931][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2019.10.21-12.48.30:951][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Audio/Fire01.uasset"
+[2019.10.21-12.48.30:968][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2019.10.21-12.48.31:004][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2019.10.21-12.48.31:043][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2019.10.21-12.48.31:066][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Audio/Light01.uasset"
+[2019.10.21-12.48.31:173][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2019.10.21-12.48.31:216][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Audio/Light02.uasset"
+[2019.10.21-12.48.31:235][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2019.10.21-12.48.31:276][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Audio/Smoke01.uasset"
+[2019.10.21-12.48.31:305][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2019.10.21-12.48.31:329][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2019.10.21-12.48.31:385][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2019.10.21-12.48.31:475][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2019.10.21-12.48.31:493][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2019.10.21-12.48.31:525][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2019.10.21-12.48.31:560][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2019.10.21-12.48.31:581][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Audio/Steam01.uasset"
+[2019.10.21-12.48.31:645][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2019.10.21-12.48.31:683][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2019.10.21-12.48.31:720][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2019.10.21-12.48.31:750][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2019.10.21-12.48.31:775][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2019.10.21-12.48.31:794][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2019.10.21-12.48.31:823][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2019.10.21-12.48.31:875][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2019.10.21-12.48.31:903][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2019.10.21-12.48.31:918][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2019.10.21-12.48.31:937][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2019.10.21-12.48.31:987][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2019.10.21-12.48.32:062][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2019.10.21-12.48.32:160][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2019.10.21-12.48.32:202][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2019.10.21-12.48.32:237][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2019.10.21-12.48.32:243][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2019.10.21-12.48.32:753][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2019.10.21-12.48.32:785][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2019.10.21-12.48.32:824][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2019.10.21-12.48.32:862][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Maps/Minimal_Default.umap"
+[2019.10.21-12.48.32:898][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2019.10.21-12.48.32:923][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Maps/StarterMap.umap"
+[2019.10.21-12.48.33:135][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2019.10.21-12.48.33:187][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2019.10.21-12.48.33:273][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2019.10.21-12.48.33:348][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2019.10.21-12.48.33:405][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2019.10.21-12.48.33:438][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2019.10.21-12.48.33:468][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2019.10.21-12.48.33:490][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2019.10.21-12.48.33:506][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2019.10.21-12.48.33:555][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2019.10.21-12.48.33:571][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2019.10.21-12.48.33:592][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2019.10.21-12.48.33:614][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2019.10.21-12.48.33:629][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2019.10.21-12.48.33:640][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2019.10.21-12.48.33:659][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2019.10.21-12.48.33:675][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2019.10.21-12.48.33:696][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2019.10.21-12.48.33:711][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Materials/M_Glass.uasset"
+[2019.10.21-12.48.33:725][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2019.10.21-12.48.33:741][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2019.10.21-12.48.33:812][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2019.10.21-12.48.33:841][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2019.10.21-12.48.33:870][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2019.10.21-12.48.33:905][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2019.10.21-12.48.33:941][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2019.10.21-12.48.33:975][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2019.10.21-12.48.34:003][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2019.10.21-12.48.34:061][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2019.10.21-12.48.34:083][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2019.10.21-12.48.34:103][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2019.10.21-12.48.34:126][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2019.10.21-12.48.34:153][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2019.10.21-12.48.34:176][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2019.10.21-12.48.34:199][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2019.10.21-12.48.34:221][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2019.10.21-12.48.34:242][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2019.10.21-12.48.34:299][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2019.10.21-12.48.34:348][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2019.10.21-12.48.34:399][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2019.10.21-12.48.34:427][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2019.10.21-12.48.34:453][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2019.10.21-12.48.34:473][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2019.10.21-12.48.34:485][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2019.10.21-12.48.34:515][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2019.10.21-12.48.34:532][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Particles/P_Explosion.uasset"
+[2019.10.21-12.48.34:555][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Particles/P_Fire.uasset"
+[2019.10.21-12.48.34:575][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Particles/P_Smoke.uasset"
+[2019.10.21-12.48.34:589][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Particles/P_Sparks.uasset"
+[2019.10.21-12.48.34:607][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2019.10.21-12.48.34:621][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2019.10.21-12.48.34:630][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2019.10.21-12.48.34:647][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2019.10.21-12.48.34:655][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2019.10.21-12.48.34:674][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2019.10.21-12.48.34:682][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2019.10.21-12.48.34:701][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2019.10.21-12.48.34:730][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2019.10.21-12.48.34:801][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2019.10.21-12.48.34:836][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2019.10.21-12.48.34:864][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Props/MaterialSphere.uasset"
+[2019.10.21-12.48.34:901][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Props/SM_Bush.uasset"
+[2019.10.21-12.48.34:925][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Props/SM_Chair.uasset"
+[2019.10.21-12.48.34:947][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2019.10.21-12.48.35:017][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Props/SM_Couch.uasset"
+[2019.10.21-12.48.35:053][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Props/SM_Door.uasset"
+[2019.10.21-12.48.35:114][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2019.10.21-12.48.35:135][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2019.10.21-12.48.35:160][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2019.10.21-12.48.35:179][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2019.10.21-12.48.35:208][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2019.10.21-12.48.35:227][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2019.10.21-12.48.35:728][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2019.10.21-12.48.35:765][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Props/SM_Rock.uasset"
+[2019.10.21-12.48.35:799][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Props/SM_Shelf.uasset"
+[2019.10.21-12.48.35:822][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Props/SM_Stairs.uasset"
+[2019.10.21-12.48.35:850][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Props/SM_Statue.uasset"
+[2019.10.21-12.48.35:914][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Props/SM_TableRound.uasset"
+[2019.10.21-12.48.35:948][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2019.10.21-12.48.36:020][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2019.10.21-12.48.36:089][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2019.10.21-12.48.36:108][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2019.10.21-12.48.36:124][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2019.10.21-12.48.36:149][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2019.10.21-12.48.36:199][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2019.10.21-12.48.36:221][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2019.10.21-12.48.36:240][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2019.10.21-12.48.36:263][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2019.10.21-12.48.36:279][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2019.10.21-12.48.36:300][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2019.10.21-12.48.36:323][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2019.10.21-12.48.36:346][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2019.10.21-12.48.36:370][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2019.10.21-12.48.36:397][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2019.10.21-12.48.36:672][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2019.10.21-12.48.36:705][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2019.10.21-12.48.36:740][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2019.10.21-12.48.36:761][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2019.10.21-12.48.36:783][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2019.10.21-12.48.36:805][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2019.10.21-12.48.36:825][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2019.10.21-12.48.36:853][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2019.10.21-12.48.36:972][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2019.10.21-12.48.37:001][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2019.10.21-12.48.37:031][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2019.10.21-12.48.37:061][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2019.10.21-12.48.37:079][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2019.10.21-12.48.37:093][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2019.10.21-12.48.37:124][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2019.10.21-12.48.37:142][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2019.10.21-12.48.37:249][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2019.10.21-12.48.37:336][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2019.10.21-12.48.37:429][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2019.10.21-12.48.37:509][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2019.10.21-12.48.37:581][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2019.10.21-12.48.37:641][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2019.10.21-12.48.37:762][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2019.10.21-12.48.37:841][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2019.10.21-12.48.37:913][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2019.10.21-12.48.38:145][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2019.10.21-12.48.38:224][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2019.10.21-12.48.38:282][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2019.10.21-12.48.38:389][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2019.10.21-12.48.38:424][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2019.10.21-12.48.38:460][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2019.10.21-12.48.38:491][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2019.10.21-12.48.38:517][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2019.10.21-12.48.38:567][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2019.10.21-12.48.38:623][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2019.10.21-12.48.38:685][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2019.10.21-12.48.38:717][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2019.10.21-12.48.38:818][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2019.10.21-12.48.38:851][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2019.10.21-12.48.38:958][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2019.10.21-12.48.39:003][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2019.10.21-12.48.39:046][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2019.10.21-12.48.39:208][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2019.10.21-12.48.39:280][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2019.10.21-12.48.39:497][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2019.10.21-12.48.39:609][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2019.10.21-12.48.39:703][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2019.10.21-12.48.39:887][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2019.10.21-12.48.40:011][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2019.10.21-12.48.40:115][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2019.10.21-12.48.40:265][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2019.10.21-12.48.40:315][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2019.10.21-12.48.40:373][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2019.10.21-12.48.40:389][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2019.10.21-12.48.40:431][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2019.10.21-12.48.40:546][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Door_M.uasset"
+[2019.10.21-12.48.40:598][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Door_N.uasset"
+[2019.10.21-12.48.40:617][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2019.10.21-12.48.40:665][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2019.10.21-12.48.40:733][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2019.10.21-12.48.41:003][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2019.10.21-12.48.41:042][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2019.10.21-12.48.41:072][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2019.10.21-12.48.41:112][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2019.10.21-12.48.41:225][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2019.10.21-12.48.41:351][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2019.10.21-12.48.41:434][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2019.10.21-12.48.41:509][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2019.10.21-12.48.41:646][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2019.10.21-12.48.41:727][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2019.10.21-12.48.41:777][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2019.10.21-12.48.41:813][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2019.10.21-12.48.41:907][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2019.10.21-12.48.41:995][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2019.10.21-12.48.42:492][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2019.10.21-12.48.42:699][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2019.10.21-12.48.42:753][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2019.10.21-12.48.42:847][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2019.10.21-12.48.43:411][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2019.10.21-12.48.43:536][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2019.10.21-12.48.43:649][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2019.10.21-12.48.44:024][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2019.10.21-12.48.44:067][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2019.10.21-12.48.44:132][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2019.10.21-12.48.44:267][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2019.10.21-12.48.44:356][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2019.10.21-12.48.44:419][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2019.10.21-12.48.44:498][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2019.10.21-12.48.44:604][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2019.10.21-12.48.44:745][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2019.10.21-12.48.45:156][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2019.10.21-12.48.45:245][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2019.10.21-12.48.45:280][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2019.10.21-12.48.45:474][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2019.10.21-12.48.45:495][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2019.10.21-12.48.45:531][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2019.10.21-12.48.45:554][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2019.10.21-12.48.45:587][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2019.10.21-12.48.45:612][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2019.10.21-12.48.45:638][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2019.10.21-12.48.45:750][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2019.10.21-12.48.45:790][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2019.10.21-12.48.45:808][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2019.10.21-12.48.45:826][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2019.10.21-12.48.45:847][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2019.10.21-12.48.45:882][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2019.10.21-12.48.45:931][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2019.10.21-12.48.45:970][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2019.10.21-12.48.46:019][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Water_M.uasset"
+[2019.10.21-12.48.46:064][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Water_N.uasset"
+[2019.10.21-12.48.46:144][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2019.10.21-12.48.46:271][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2019.10.21-12.48.46:643][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2019.10.21-12.48.46:716][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2019.10.21-12.48.46:766][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2019.10.21-12.48.46:854][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2019.10.21-12.48.46:922][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2019.10.21-12.48.46:986][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2019.10.21-12.48.47:031][757]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2019.10.21-12.48.47:440][757]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Saved/Floor_400x400FA7AE2844B96154911C196AE28C8D0A1.tmp' to '../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2019.10.21-12.48.52:949][336]LogSlate: Window 'Add Content to the Project' being destroyed
+[2019.10.21-12.49.24:484][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-12.49.40:295][671]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-12.50.08:117][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-12.50.25:186][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-12.50.55:114][157]LogEditorTransaction: Undo Modify Component(s)
+[2019.10.21-12.51.02:987][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-12.51.12:259][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-12.51.12:403][ 60]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:4213).
+[2019.10.21-12.51.26:163][428]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-12.51.30:293][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-12.51.38:615][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-12.51.50:236][721]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-12.52.01:500][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-12.52.01:575][782]BlueprintLog: New page: Compile PlayerBullet
+[2019.10.21-12.52.01:991][782]LogUObjectHash: Compacting FUObjectHashTables data took   8.07ms
+[2019.10.21-12.52.02:772][831]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Saved/PlayerBullet65F7D2684F0716F618D1F9B46D7B4277.tmp' to '../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/2DSideScrollerBP/Projectiles/PlayerBullet.uasset'
+[2019.10.21-12.52.07:198][336]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Projectiles/EnemyBullet.EnemyBullet
+[2019.10.21-12.52.49:671][492]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-12.53.01:314][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-12.53.11:295][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-12.53.20:674][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-12.53.24:712][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-12.53.24:763][879]BlueprintLog: New page: Compile EnemyBullet
+[2019.10.21-12.53.25:144][879]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2019.10.21-12.53.25:618][902]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Saved/EnemyBulletA8BDD67E449CBCEDB475D8811980E54A.tmp' to '../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/2DSideScrollerBP/Projectiles/EnemyBullet.uasset'
+[2019.10.21-12.53.26:214][960]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.10.21-12.53.27:004][ 36]LogSlate: Window 'PlayerBullet' being destroyed
+[2019.10.21-12.53.27:008][ 36]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.21-12.53.27:008][ 36]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.10.21-12.53.28:442][199]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.21-12.53.28:462][199]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.10.21-12.53.28:462][199]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.21-12.53.28:462][199]PIE: New page: PIE session: 2DSideScrollerExampleMap (21 Oct 2019 14:53:28)
+[2019.10.21-12.53.28:463][199]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.10.21-12.53.28:466][199]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003251s)
+[2019.10.21-12.53.28:467][199]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.10.21-12.53.28:467][199]LogPlayLevel: PIE: World Init took: (0.001220s)
+[2019.10.21-12.53.28:467][199]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004618s)
+[2019.10.21-12.53.28:534][199]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
+[2019.10.21-12.53.28:538][199]LogInit: XAudio2 using 'EV2316W (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.21-12.53.28:546][199]LogInit: FAudioDevice initialized.
+[2019.10.21-12.53.28:554][199]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.10.21-12.53.28:556][199]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.10.21-13.53.28
+[2019.10.21-12.53.28:556][199]LogWorld: Bringing up level for play took: 0.001091
+[2019.10.21-12.53.28:556][199]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2019.10.21-12.53.28:559][199]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.63
+[2019.10.21-12.53.28:559][199]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.10.21-12.53.44:699][128]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.10.21-12.53.44:699][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.21-12.53.44:699][128]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.10.21-12.53.44:699][128]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.21-12.53.44:709][128]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.21-12.53.44:710][128]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.10.21-12.53.44:747][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.21-12.53.44:779][128]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2019.10.21-12.53.44:806][130]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.10.21-12.53.47:259][412]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.21-12.53.49:648][674]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.21-12.53.54:485][232]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2019.10.21-12.53.54:905][232]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Projectiles/EnemyBullet.EnemyBullet
+[2019.10.21-12.53.57:470][386]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Saved/EnemyBulletE7D6B8DA448084752378F69D98520BE6.tmp' to '../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/2DSideScrollerBP/Projectiles/EnemyBullet.uasset'
+[2019.10.21-12.53.58:134][434]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-12.53.58:235][441]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.10.21-12.53.59:434][495]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Saved/2DSideScrollerCharacter6C70B1FD49E85076EDF2B4A183392787.tmp' to '../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2019.10.21-12.54.00:346][549]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-12.54.00:460][556]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2019.10.21-12.54.00:470][556]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.21-12.54.00:470][556]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.10.21-12.54.02:842][758]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-12.54.11:013][679]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2019.10.21-12.55.40:454][541]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.10.21-12.56.19:474][140]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2019.10.21-12.56.19:881][140]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2019.10.21-12.56.50:259][188]LogEditorTransaction: Undo Add Variable
+[2019.10.21-12.56.52:075][302]LogEditorTransaction: Undo Remove Variable
+[2019.10.21-12.57.26:001][509]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2019.10.21-12.57.26:375][509]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2019.10.21-12.57.30:356][745]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2019.10.21-12.57.30:744][745]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2019.10.21-12.58.05:124][863]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.10.21-12.58.05:164][863]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.21-12.58.08:406][ 39]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.10.21-12.58.08:409][ 39]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.10.21-12.58.11:820][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.21-12.59.08:007][162]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2019.10.21-12.59.08:270][162]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Saved/2DSideScrollerExampleMap_Auto160339173477739FFAC461DB741B90F6F.tmp' to '../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto1.umap'
+[2019.10.21-12.59.08:275][162]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.308
+[2019.10.21-12.59.08:275][162]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.308
+[2019.10.21-12.59.08:276][162]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter] ([1] browsable assets)...
+[2019.10.21-12.59.08:276][162]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter]
+[2019.10.21-12.59.08:364][162]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Saved/2DSideScrollerCharacter_Auto1CDD3D3FD401C4E45B2D894BDA07168F8.tmp' to '../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter_Auto1.uasset'
+[2019.10.21-12.59.08:366][162]LogFileHelpers: Auto-saving content packages took 0.090
+[2019.10.21-13.05.24:004][726]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2019.10.21-13.05.25:211][730]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2019.10.21-13.05.26:710][730]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2019.10.21-13.05.33:790][731]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{7c0e565e-f513-43dc-a77b-61aeb612ca1e} was removed. Shutting down audio device.
+[2019.10.21-13.06.16:253][731]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Query.cpp:348 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_RESET
+[2019.10.21-13.06.16:253][731]LogD3D11RHI: [Aftermath] GDynamicRHI=0000022E8D6080C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2019.10.21-13.06.16:534][731]LogWindows: Windows GetLastError: The operation completed successfully. (0)
