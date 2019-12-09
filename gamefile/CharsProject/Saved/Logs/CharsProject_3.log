@@ -3299,3 +3299,29 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.09-14.38.26:316][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2019.12.09-14.38.26:321][254]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
 [2019.12.09-14.38.26:372][258]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2019.12.09-14.45.26:000][329]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2019.12.09-14.45.28:677][329]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.09-14.45.39:840][658]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/2DSideScrollerBP/UI/Options.Options
+[2019.12.09-14.46.00:096][450]BlueprintLog: New page: Compile Options
+[2019.12.09-14.46.00:146][450]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2019.12.09-14.46.00:734][496]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Saved/OptionsFCD8DDE44470EC49137E24A7252400BA.tmp' to '../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/2DSideScrollerBP/UI/Options.uasset'
+[2019.12.09-14.46.01:622][578]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-14.46.01:653][578]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-14.46.05:074][960]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/2DSideScrollerBP/UI/MainMenu.MainMenu
+[2019.12.09-14.46.29:032][903]BlueprintLog: New page: Compile MainMenu
+[2019.12.09-14.46.29:085][903]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2019.12.09-14.46.29:541][926]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Saved/MainMenuBB21635F41268484791AF38D9588E9A4.tmp' to '../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/2DSideScrollerBP/UI/MainMenu.uasset'
+[2019.12.09-14.46.32:036][131]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-14.46.32:062][131]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-14.46.32:967][219]LogSlate: Window 'PauseMenu' being destroyed
+[2019.12.09-14.46.32:976][219]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-14.46.32:980][219]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-14.46.47:730][953]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2019.12.09-14.46.48:714][953]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.09-14.46.48:798][953]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2019.12.09-14.46.48:838][953]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2019.12.09-14.46.48:872][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.12.09-14.46.51:956][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2019.12.09-14.46.52:223][314]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Saved/MainMenu2292A90C46285617AA261FBF73DF0EA2.tmp' to '../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/2DSideScrollerBP/Levels/MainMenu.umap'
+[2019.12.09-14.46.52:652][341]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2019.12.09-14.46.52:913][341]LogSavePackage: Moving '../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Saved/MainMenu2CBBC5664943C67F360853AA0268E5A5.tmp' to '../../../../../../Users/Games/Documents/GitHub/2D-Side-Scroller/gamefile/CharsProject/Content/2DSideScrollerBP/Levels/MainMenu.umap'

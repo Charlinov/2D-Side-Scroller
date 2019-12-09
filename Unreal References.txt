@@ -1,0 +1,10 @@
+Sounds
+
+Main Menu Music - 'B-3' - https://freemusicarchive.org/music/BoxCat_Games
+Game Music - 'Mt Fox Shop' - https://freemusicarchive.org/music/BoxCat_Games
+Jump Sound - https://freesound.org/people/Leszek_Szary/sounds/146726/
+Shooting Sound - https://freesound.org/people/nsstudios/sounds/344276/
+UI Sound - https://freesound.org/people/GameDevC/sounds/422836/
+
+
+https://docs.unrealengine.com/en-US/index.html
